@@ -11,7 +11,8 @@
             title="GMAIL PARA CONTATO" 
             src="https://img.shields.io/badge/GMAIL-E61B23?style=for-the-badge&logo=gmail&logoColor=white" 
         />
-    <a href="https://www.linkedin.com/in/TEU_PERFIL" target="_blank">
+    <a href="https://www.linkedin.com/in/lucasribeiro-ads" target="_blank![Uploading image.png…]()
+">
   <img alt="LinkedIn" title="LINKEDIN" src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </a>
