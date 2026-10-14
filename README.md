@@ -1,3 +1,11 @@
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vcenter=true&width=500&lines=+Welcome+to+my+profile!+-;Estudante+de+ADS" alt="Typing SVG" />
+
+</div>
+
+
+
 # 🐱‍💻 Lucas
 
 <sub><h3 align="left"><font color="#2f81f7">Desenvolvedor de Software | Estudante de ADS</font></h3></sub>
@@ -11,8 +19,7 @@
             title="GMAIL PARA CONTATO" 
             src="https://img.shields.io/badge/GMAIL-E61B23?style=for-the-badge&logo=gmail&logoColor=white" 
         />
-    <a href="https://www.linkedin.com/in/lucasribeiro-ads" target="_blank![Uploading image.png…]()
-">
+    <a href="https://www.linkedin.com/in/TEU_PERFIL" target="_blank">
   <img alt="LinkedIn" title="LINKEDIN" src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </a>
@@ -105,5 +112,3 @@
 <br/>
 <br/>
 
- 
- 
